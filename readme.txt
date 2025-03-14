@@ -1,28 +1,23 @@
-Université : Sorbonne Université
-UE : LU2IN018 - C Avancé
+Course: LU2IN018 - Advanced C
+
+University: Sorbonne University
 
 
 Description:
 
-Ce projet est une simulation d’un écosystème dynamique, où différentes entités interagissent dans un environnement qui évolue au fil du temps. Le monde est auto-généré et soumis à des règles écologiques :
+This project is a simulation of a dynamic ecosystem where different entities interact in an environment that evolves over time. The world is self-generated and governed by ecological rules:
 
-- Les prédateurs chassent les proies pour survivre.
-
-- Les proies se nourrissent d’herbe et se déplacent pour éviter les prédateurs.
-
-- L’herbe pousse aléatoirement sur le terrain, servant de nourriture aux proies.
-
-- Le monde évolue dynamiquement, avec des cycles de reproduction, de survie et de disparition des espèces en fonction des ressources disponibles.
+- Predators hunt prey to survive.
+- Prey feed on grass and move to avoid predators.
+- Grass grows randomly on the terrain, serving as food for prey.
+- The world evolves dynamically, with cycles of reproduction, survival, and species extinction based on available resources.
 
 
-Contenu:
+Content:
 
-Ce projet regroupe des exercices et implémentations en langage C avancé, abordant des concepts fondamentaux pour la programmation bas niveau et système:
+This project includes exercises and implementations in Advanced C, covering fundamental concepts of low-level and system programming:
 
-- Gestion dynamique de la mémoire
-
-- Manipulation avancée des fichiers
-
-- Structures de données complexes (listes, arbres, etc.)
-
-- Programmation système (processus, threads, signaux)
+Dynamic memory management
+Advanced file manipulation
+Complex data structures (lists, trees, etc.)
+System programming (processes, threads, signals)
